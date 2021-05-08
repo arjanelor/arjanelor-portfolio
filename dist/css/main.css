@@ -29,7 +29,7 @@
 
 .home .social-icons {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .home footer {
@@ -417,7 +417,7 @@
 
 .contact .social-icons {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .contact footer {
